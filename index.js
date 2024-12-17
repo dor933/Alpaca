@@ -1,7 +1,7 @@
 const Alpaca = require('@alpacahq/alpaca-trade-api');
 const XLSX = require('xlsx');
-const apikey="AKM7IA5N0KY1MKOU3B2G"
-const secret="Cq1YRSSmZgO0UPf0nJ4eZJSwRvVt0fwhHhvHrc7C";
+const apikey=""
+const secret="";
 
 const alpaca = new Alpaca({
     keyId: apikey,
